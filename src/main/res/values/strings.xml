@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Homework 1</string>
+    <string name="action_settings">Settings</string>
+    <string name="payment_text">Monthly Payment ($)</string>
+    <string name="amount_text">Amount Borrowed ($)</string>
+    <string name="enter_text">Enter Amount Here</string>
+    <string name="rate_text">Interest Rate (%):</string>
+    <string name="year_text">Loan Term (years)</string>
+    <string name="taxes_text"><![CDATA[Taxes & Insurance]]></string>
+    <string name="calculate_text">CALCULATE</string>
+</resources>

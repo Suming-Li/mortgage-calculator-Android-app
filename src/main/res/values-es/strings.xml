@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">la tarea 1</string>
+    <string name="action_settings">el escenario</string>
+    <string name="amount_text">dinero prestado ($)</string>
+    <string name="calculate_text">calcular</string>
+    <string name="enter_text">entrar en</string>
+    <string name="payment_text">el pago ($)</string>
+    <string name="rate_text">interesar (%):</string>
+    <string name="taxes_text">el impuesto</string>
+    <string name="year_text">el año</string>
+</resources>
